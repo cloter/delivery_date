@@ -10,9 +10,12 @@ The files that I changed are listed below (all changes have a comment line “NE
 - coderockz-woo-delivery-admin.js
 - class-coderockz-woo-delivery-public.php
 - coderockz-woo-delivery-public.js
+- coderockz-woo-delivery-admin-display.php
 
-One interesting complement to this mod is to put a ‘days chooser’ in the settings page, to allow the admin to set how far in the past to allow the dates (for the customer and for the admin). In my code the variables ($beginning_date_admin and $beginning_date_public) are hardcoded in the classes:
+Obs.: One interesting complement to this mod is to put a ‘days chooser’ in the settings page, to allow the admin to set how far in the past to allow the dates (for the customer and for the admin). In my code the variables ($beginning_date_admin and $beginning_date_public) are hardcoded in the classes:
 - Coderockz_Woo_Delivery_Admin
 - Coderockz_Woo_Delivery_Public
+
+Update, 06/20/2023: The possibility to adjust the number of days in the past (per observation above) has been implemented in the settings page of the modified Delivery Date plugin. The plugin zip file has been updated.
 
 I hope it can be useful to other people.
