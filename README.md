@@ -1,5 +1,5 @@
 # delivery_date
-This project is a mod on the plugin "Woo Delivery" to allow setting a delivery date in the past. 
+This project is a mod on the plugin "Delivery & Pickup Date Time for WooCommerce" to allow setting a delivery date in the past. 
 https://br.wordpress.org/plugins/woo-delivery/
 
 I did some digging in the code and modified a couple of files to achieve what I needed. If anyone is interested, the new code can be accessed though the link below:
